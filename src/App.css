@@ -27,6 +27,18 @@
 .App-link {
   color: #61dafb;
 }
+.scores-container {
+  border: 3px solid rgb(35, 133, 35);
+  /* width: 300px; */
+  margin-bottom: 15px;
+}
+.scores-ns {
+  padding: 4px;
+}
+.country-name {
+  font-weight: bold;
+  border: 3px solid lightblue;
+}
 
 @keyframes App-logo-spin {
   from {
