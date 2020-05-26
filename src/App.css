@@ -20,7 +20,7 @@
 }
 .scores-ns {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: space-between;
   margin: 10px;
   border: 1px solid black;
   padding: 4px;
@@ -34,7 +34,7 @@
   border: 3px solid rgb(98, 203, 241);
 }
 .scores-n {
-  text-align: right;
+  margin-left: 70px;
   font-weight: bold;
   font-size: 12px;
 }
