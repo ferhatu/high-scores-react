@@ -4,7 +4,11 @@
 .heading {
   text-align: center;
 }
+.allScores-container {
+  margin: auto;
+}
 .scores-container {
+  margin: auto;
   text-align: center;
   border: 6px solid rgb(65, 223, 65);
   width: 300px;
