@@ -1,16 +1,20 @@
 .App {
+  margin: auto;
+  width: 350px;
+  border: 2px solid rgb(24, 55, 228);
   text-align: center;
 }
 .heading {
-  text-align: center;
-}
-.allScores-container {
   margin: auto;
+  padding: 7px;
+  font-size: 25px;
+  width: 300px;
+  color: rgb(98, 203, 241);
+  text-align: center;
 }
 .scores-container {
   margin: auto;
-  text-align: center;
-  border: 6px solid rgb(65, 223, 65);
+  border: 8px solid rgb(129, 231, 101);
   width: 300px;
   margin-bottom: 15px;
 }
@@ -22,10 +26,12 @@
   padding: 4px;
 }
 .country-name {
+  font-size: 12px;
+  color: rgb(98, 203, 241);
   text-align: center;
   margin: 10px;
   font-weight: bold;
-  border: 3px solid rgb(95, 161, 184);
+  border: 3px solid rgb(98, 203, 241);
 }
 .scores-n {
   text-align: right;
