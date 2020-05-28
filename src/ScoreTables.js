@@ -3,7 +3,6 @@ import SortButton from "./SortButton";
 
 const ScoreTables = (props) => {
   const [score, setScore] = useState(false);
-
   const ToogleSrt = () => {
     setScore(!score);
   };
